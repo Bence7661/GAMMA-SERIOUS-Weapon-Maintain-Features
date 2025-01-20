@@ -1,5 +1,5 @@
 # S.T.A.L.K.E.R G.A.M.M.A SERIOUS Weapon Maintain Features 'n fixes
-Adds extra QoL functions to the maintain weapon context menu
+Adds extra QoL features to the maintain weapon context menu
 
 ## Detailed description
 ### Fixes
@@ -64,3 +64,21 @@ Adds extra QoL functions to the maintain weapon context menu
  Left image has the **Allow "maintain all" to use repair kits for cleaning** option off. Right image has it switched on.
  ![image](https://github.com/user-attachments/assets/a30e380c-6a8a-4cdb-b95a-9708dcddea5d)
  ![image](https://github.com/user-attachments/assets/d8305e7e-2797-42b9-af6c-10237423a31a)
+
+ ## Installation
+
+ G.A.M.M.A v0.9.3.1
+ 1. Click "Code" -> Download .zip
+
+ ![image](https://github.com/user-attachments/assets/5a4c34cd-38be-45a1-85eb-fbe91686b13b)
+
+ 2. Open "Mod Organizer" and click "install a new mod from an archive" then select `SERIOUS Weapon Maintain Features 'n fixes.zip`
+ 3. Tick the little box next to the mod.
+ 4. Right click mod -> Send to -> Priority and set it to 524.
+
+![image](https://github.com/user-attachments/assets/2324e888-97c8-47f8-a755-0ded5598a48d)
+
+ 5. In the bottom right search for "SaloEater's Replace Shows Parts Health" and disable it. Otherwise your game will crash as soon as you click "maintain parts" (The feature in this mod is also included in mine) (So sorry SaloEater, but the patch completely breaks my mod. This on the other hand breaks my hearth)
+ 8. Enjoy the cool new features :sunglasses:
+
+
