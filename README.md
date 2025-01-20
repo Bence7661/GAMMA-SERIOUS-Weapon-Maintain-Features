@@ -89,4 +89,4 @@ For **v0.9.3.1** follow these 2 additional steps:
  5. In the bottom right search for "SaloEater's Replace Shows Parts Health" and disable it. Otherwise your game will crash as soon as you click "maintain parts" (The feature in this mod is also included in mine) (So sorry SaloEater, but the patch completely breaks my mod. This on the other hand breaks my hearth)
  6. Enjoy the cool new features :sunglasses:
 
-
+## Special thanks to (W.I.P. waiting for consent)
