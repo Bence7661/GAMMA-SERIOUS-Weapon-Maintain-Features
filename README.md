@@ -67,18 +67,26 @@ Adds extra QoL features to the maintain weapon context menu
 
  ## Installation
 
- G.A.M.M.A v0.9.3.1
+ *G.A.M.M.A v0.9.3.1 and v0.9.3*
  1. Click "Code" -> Download .zip
 
  ![image](https://github.com/user-attachments/assets/5a4c34cd-38be-45a1-85eb-fbe91686b13b)
 
- 2. Open "Mod Organizer" and click "install a new mod from an archive" then select `SERIOUS Weapon Maintain Features 'n fixes.zip`
+ 2. Open "Mod Organizer" and click "install a new mod from an archive" then select `GAMMA-SERIOUS-Weapon-Maintain-Features-main.zip`
  3. Tick the little box next to the mod.
- 4. Right click mod -> Send to -> Priority and set it to 524.
+ 4. Right click mod -> Send to -> Priority:
+    - For **v0.9.3.1** set the priority to **524**.
+    - For **v0.9.3** set it to **510**
+  
+  NOTE: If you're using other mods than vanilla then you're probably still fine with the said priorities. If other non-vanilla mods occupy this priority just set mine to be higher (I mean if there's a non-vanilla mod at 524 just set mine to 525)
 
 ![image](https://github.com/user-attachments/assets/2324e888-97c8-47f8-a755-0ded5598a48d)
 
+If you're using **v0.9.3** then that's it, you're all set!
+
+For **v0.9.3.1** follow these 2 additional steps:
+
  5. In the bottom right search for "SaloEater's Replace Shows Parts Health" and disable it. Otherwise your game will crash as soon as you click "maintain parts" (The feature in this mod is also included in mine) (So sorry SaloEater, but the patch completely breaks my mod. This on the other hand breaks my hearth)
- 8. Enjoy the cool new features :sunglasses:
+ 6. Enjoy the cool new features :sunglasses:
 
 
