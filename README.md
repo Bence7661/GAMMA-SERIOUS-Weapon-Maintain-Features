@@ -1,4 +1,4 @@
-# S.T.A.L.K.E.R G.A.M.M.A SERIOUS Weapon Maintain Features 'n fixes
+# [1.0.1] S.T.A.L.K.E.R G.A.M.M.A SERIOUS Weapon Maintain Features 'n fixes
 Adds extra QoL features to the maintain weapon context menu
 
 **Important note: This mod builds heavily on `zzzz_arti_jamming_repairs`. I by no means want to rip off his work.
