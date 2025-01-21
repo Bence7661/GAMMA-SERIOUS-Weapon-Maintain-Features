@@ -52,49 +52,6 @@ serious_mcm_conf = serious_weapon_maintain_features_mcm.get_config
 -- 	end
 -- end
 
-function logb(message)
-    -- Specify the full path to where you want the log to be saved
-    local log_file_path = "C:/Users/Bence/Documents/debug_log.txt"
-    
-    -- Check if path exists and can be written to
-    local file = io.open(log_file_path, "a")  -- Open the file in append mode
-    if file then
-        file:write(safe_tostring(message) .. "\n")  -- Write the message to the file
-        file:close()  -- Close the file after writing
-    else
-        print("Error opening log file at " .. log_file_path)
-    end
-end
-
-function jsonlog(message)
-    -- Get the current timestamp in ISO format
-    local timestamp = os.date("!%Y-%m-%dT%H:%M:%SZ")
-    
-    -- Construct the JSON log format
-    local log_entry = {
-        timestamp = timestamp,
-        message = message
-    }
-
-    -- Convert the log entry to a JSON string
-    local json_log = '{"timestamp": "' .. log_entry.timestamp .. '", "message": "' .. log_entry.message .. '"}'
-
-    -- Output the JSON log
-    logb(json_log)
-end
-
-function safe_tostring(value)
-    if value == nil then
-        return "nil"
-    elseif type(value) == "userdata" then
-        return "<userdata>"
-    elseif type(value) == "table" then
-        return "<table>"
-    else
-        return tostring(value)
-    end
-end
-
 -- what is good part, what is not
 local good_breakpoint = 60
 function weapon_eval_parts(wpn)
@@ -528,7 +485,7 @@ function ui_workshop.UIWorkshopRepair:Repair()
 	-- Effect
 	actor_effects.play_item_fx("craft_dummy")
 
-	self:Close()
+	self:Reset()
 end
 
 function section_has_parts(sec)
