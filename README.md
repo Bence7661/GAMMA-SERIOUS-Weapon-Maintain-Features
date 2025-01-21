@@ -4,6 +4,8 @@ Adds extra QoL features to the maintain weapon context menu
 **Important note: This mod builds heavily on `zzzz_arti_jamming_repairs`. I by no means want to rip off his work.
 I chose the file overwrite method instead of monkey patching since these seemed a lot cleaner/maintainable.**
 
+Click this to view changes -> [Changelog](https://github.com/Bence7661/GAMMA-SERIOUS-Weapon-Maintain-Features/wiki)
+
 ## Detailed description
 ### Fixes
 - **Fixed**: "Maintain parts" option appearing when there are no parts to clean or repair, preventing an empty menu box.
