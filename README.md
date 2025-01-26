@@ -70,24 +70,22 @@ Click here to view changes -> [Changelog](https://github.com/Bence7661/GAMMA-SER
  ![image](https://github.com/user-attachments/assets/a30e380c-6a8a-4cdb-b95a-9708dcddea5d)
  ![image](https://github.com/user-attachments/assets/d8305e7e-2797-42b9-af6c-10237423a31a)
 
- ## Installation
+ ## Download/Installation
+ To download older versions of the mod read this -> [How to download older releases of the mod](https://github.com/Bence7661/SERIOUS-Weapon-Maintain-Features/wiki/How-to-download-older-releases-of-the-mod)
 
- *G.A.M.M.A v0.9.3.1 and v0.9.3*
- 1. Click "Releases" -> Download .zip
+ **G.A.M.M.A v0.9.3.1 and v0.9.3**
 
- ![image](https://github.com/user-attachments/assets/be20a4d6-d6b9-4c48-a032-d46a8e712e7b)
+ 1. Click "Code" -> "Download ZIP"
 
- Under "Assets" click the top file `SERIOUS_Weapon_Maintain_Features_n_fixes.7z`
+ ![image](https://github.com/user-attachments/assets/88856ffb-5d6d-403e-8a9a-dbd80a96bc5e)
 
- ![image](https://github.com/user-attachments/assets/e288927a-58a3-49ed-9877-449c8cf8bb9c)
-
- 2. Open "Mod Organizer" and click "install a new mod from an archive" then select `SERIOUS_Weapon_Maintain_Features_n_fixes.7z`
- 3. Tick the little box next to the mod.
- 4. Right click mod -> Send to -> Priority:
+ 3. Open "Mod Organizer" and click "install a new mod from an archive" then select `SERIOUS_Weapon_Maintain_Features_n_fixes.7z`
+ 4. Tick the little box next to the mod.
+ 5. Right click mod -> Send to -> Priority:
     - For **v0.9.3.1** set the priority to **524**.
     - For **v0.9.3** set it to **510**
   
-  NOTE: If you're using other mods than vanilla then you're probably still fine with the said priorities. If other non-vanilla mods occupy this priority just set mine to be higher (I mean if there's a non-vanilla mod at 524 just set mine to 525)
+⚠ **NOTE:** If you're using other mods than vanilla then you're probably still fine with the said priorities. If other non-vanilla mods occupy this priority just set mine to be higher (I mean if there's a non-vanilla mod at 524 just set mine to 525)
 
 ![image](https://github.com/user-attachments/assets/2324e888-97c8-47f8-a755-0ded5598a48d)
 
