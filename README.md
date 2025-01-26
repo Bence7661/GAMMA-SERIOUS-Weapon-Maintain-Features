@@ -73,11 +73,15 @@ Click here to view changes -> [Changelog](https://github.com/Bence7661/GAMMA-SER
  ## Installation
 
  *G.A.M.M.A v0.9.3.1 and v0.9.3*
- 1. Click "Code" -> Download .zip
+ 1. Click "Releases" -> Download .zip
 
- ![image](https://github.com/user-attachments/assets/5a4c34cd-38be-45a1-85eb-fbe91686b13b)
+ ![image](https://github.com/user-attachments/assets/be20a4d6-d6b9-4c48-a032-d46a8e712e7b)
 
- 2. Open "Mod Organizer" and click "install a new mod from an archive" then select `GAMMA-SERIOUS-Weapon-Maintain-Features-main.zip`
+ Under "Assets" click the top file `SERIOUS_Weapon_Maintain_Features_n_fixes.7z`
+
+ ![image](https://github.com/user-attachments/assets/e288927a-58a3-49ed-9877-449c8cf8bb9c)
+
+ 2. Open "Mod Organizer" and click "install a new mod from an archive" then select `SERIOUS_Weapon_Maintain_Features_n_fixes.7z`
  3. Tick the little box next to the mod.
  4. Right click mod -> Send to -> Priority:
     - For **v0.9.3.1** set the priority to **524**.
